@@ -40,3 +40,17 @@ D:\DAM3\AccesoADatos\Practica1-20240917T190318Z-001\Practica1\obj\Debug\net8.0\r
 D:\DAM3\AccesoADatos\Practica1-20240917T190318Z-001\Practica1\obj\Debug\net8.0\Practica1.pdb
 D:\DAM3\AccesoADatos\Practica1-20240917T190318Z-001\Practica1\obj\Debug\net8.0\Practica1.genruntimeconfig.cache
 D:\DAM3\AccesoADatos\Practica1-20240917T190318Z-001\Practica1\obj\Debug\net8.0\ref\Practica1.dll
+D:\DAM3\AccesoADatos\Practica4\bin\Debug\net8.0\Practica1.exe
+D:\DAM3\AccesoADatos\Practica4\bin\Debug\net8.0\Practica1.deps.json
+D:\DAM3\AccesoADatos\Practica4\bin\Debug\net8.0\Practica1.runtimeconfig.json
+D:\DAM3\AccesoADatos\Practica4\bin\Debug\net8.0\Practica1.dll
+D:\DAM3\AccesoADatos\Practica4\bin\Debug\net8.0\Practica1.pdb
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\Practica1.AssemblyInfoInputs.cache
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\Practica1.AssemblyInfo.vb
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\Practica1.vbproj.CoreCompileInputs.cache
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\Practica1.dll
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\refint\Practica1.dll
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\Practica1.pdb
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\Practica1.genruntimeconfig.cache
+D:\DAM3\AccesoADatos\Practica4\obj\Debug\net8.0\ref\Practica1.dll

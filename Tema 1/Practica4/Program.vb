@@ -3,9 +3,9 @@ Imports System.Runtime.InteropServices.JavaScript.JSType
 
 Module Program
     Sub Main(args As String())
-        'ConceptosBasicos()
-        'Condiciones()
-        'Bucles()
+        ConceptosBasicos()
+        Condiciones()
+        Bucles()
         Arrays()
     End Sub
 
@@ -33,8 +33,10 @@ Module Program
     End Function
 
     Function Arrays()
-        'Punto15()
+        Punto15()
         Punto16()
+        Punto17()
+        Punto18()
     End Function
 
     'Comienzo de Conceptos Basicos
@@ -114,7 +116,21 @@ Module Program
 
     Function Punto6()
         Console.Clear()
-        Console.WriteLine("Pendiente por hacer")
+        Console.WriteLine("Introduce la cantidad en euros (puede incluir decimales):")
+        Dim cantidad As Double = Convert.ToDouble(Console.ReadLine())
+        Dim centimos As Integer = CInt(cantidad * 100)
+        Dim monedas() As Integer = {200, 100, 50, 20, 10, 5, 2, 1}
+        Dim nombresMonedas() As String = {"2€", "1€", "0.50€", "0.20€", "0.10€", "0.05€", "0.02€", "0.01€"}
+
+        For i As Integer = 0 To monedas.Length - 1
+            Dim cantidadMonedas As Integer = centimos \ monedas(i)
+            If cantidadMonedas > 0 Then
+                Console.WriteLine("Monedas de " & nombresMonedas(i) & ": " & cantidadMonedas)
+            End If
+            centimos = centimos Mod monedas(i)
+        Next
+
+        Console.ReadLine()
         Console.WriteLine("Pulse una tecla para continuar...")
         Console.ReadKey(True)
     End Function
@@ -252,18 +268,101 @@ Module Program
 
     Function Punto13()
         Console.Clear()
-        Console.WriteLine("Introduce un numero entero: ")
-        Dim numero As Integer = Int32.Parse(Console.ReadLine())
-        If numero Mod 1 = 0 And numero Mod numero = 0 Then
-            Console.WriteLine("El numero " + numero.ToString() + " es primo")
+        Console.WriteLine("Ingrese un número: ")
+        Dim numero As Integer = Convert.ToInt32(Console.ReadLine())
+
+        If EsPrimo(numero) Then
+            Console.WriteLine("El número " & numero & " es primo.")
         Else
-            Console.WriteLine("El numero " + numero.ToString() + " no es primo")
+            Console.WriteLine("El número " & numero & " no es primo.")
         End If
+
+        Console.ReadLine()
         Console.WriteLine("Pulse una tecla para continuar...")
         Console.ReadKey(True)
     End Function
+
+    Function EsPrimo(ByVal num As Integer) As Boolean
+        If num <= 1 Then
+            Return False
+        End If
+
+        For i As Integer = 2 To Math.Sqrt(num)
+            If num Mod i = 0 Then
+                Return False
+            End If
+        Next
+
+        Return True
+    End Function
     Function Punto14()
+        Console.Clear()
+        Const MAXINTENTOS As Integer = 10
+        Dim intentos As Integer = 0
+        Dim combinacionSecreta(3) As Integer
+        Dim combinacionUsuario(3) As Integer
+        Dim rand As New Random()
+
+
+        For i As Integer = 0 To 3
+            Dim numeroGenerado As Integer
+            Do
+                numeroGenerado = rand.Next(0, 10)
+            Loop While combinacionSecreta.Contains(numeroGenerado)
+            combinacionSecreta(i) = numeroGenerado
+        Next
+
+
+        While intentos < MAXINTENTOS
+
+            intentos += 1
+
+
+            Console.WriteLine(vbCrLf & "Intento {0}/{1}: Introduce cuatro números distintos entre 0 y 9:", intentos, MAXINTENTOS)
+            For i As Integer = 0 To 3
+                combinacionUsuario(i) = Convert.ToInt32(Console.ReadLine())
+            Next
+
+
+            Dim colocados As Integer = 0
+            Dim descolocados As Integer = 0
+            Dim usadosEnSecreta(3) As Boolean
+
+            For i As Integer = 0 To 3
+                If combinacionUsuario(i) = combinacionSecreta(i) Then
+                    colocados += 1
+                    usadosEnSecreta(i) = True
+                End If
+            Next
+
+            For i As Integer = 0 To 3
+                If combinacionUsuario(i) <> combinacionSecreta(i) Then
+                    For j As Integer = 0 To 3
+                        If combinacionUsuario(i) = combinacionSecreta(j) And Not usadosEnSecreta(j) Then
+                            descolocados += 1
+                            usadosEnSecreta(j) = True
+                            Exit For
+                        End If
+                    Next
+                End If
+            Next
+
+            Console.WriteLine("Colocados: " & colocados & " | Descolocados: " & descolocados)
+
+
+            If colocados = 4 Then
+                Console.WriteLine("¡Felicidades! Has acertado la combinación secreta.")
+                Exit While
+            End If
+
+            If intentos = MAXINTENTOS Then
+                Console.WriteLine("Has agotado todos los intentos. La combinación secreta era: " & String.Join("", combinacionSecreta))
+                Exit While
+            End If
+        End While
         Console.WriteLine("MasterMind")
+        Console.WriteLine("Pulse una tecla para continuar...")
+        Console.ReadKey(True)
     End Function
     Function Punto15()
         Dim array(10) As Integer
@@ -292,11 +391,12 @@ Module Program
     End Function
 
     Function Punto16()
+        Dim rand As New Random()
         Dim array(20) As Integer
         Dim arrayPrimos(20) As Integer
         For i As Integer = 0 To 20
-            array(i) = Int((99 * Rnd()) + 1)
-            If array(i) Mod 1 = 0 And array(i) Mod array(i) = 0 Then
+            array(i) = rand.Next(1, 100)
+            If EsPrimo(array(i)) Then
                 arrayPrimos(i) = array(i)
             End If
         Next
@@ -304,9 +404,52 @@ Module Program
         Console.WriteLine("Primos : ")
         Console.WriteLine("")
         For i As Integer = 0 To arrayPrimos.Length - 1
-            Console.WriteLine(arrayPrimos(i).ToString())
+            If arrayPrimos(i) <> 0 Then
+                Console.WriteLine(arrayPrimos(i).ToString())
+            End If
+        Next
+    End Function
+
+    Function Punto17()
+        Dim array1(4) As Integer
+        Dim array2(4) As Integer
+        Dim array3(4) As Integer
+        Dim numero As Integer
+        For i As Integer = 0 To array1.Length - 1
+            Console.WriteLine("Introduce para el array1 un numero " + i.ToString() + " : ")
+            numero = Int32.Parse(Console.ReadLine())
+            array1(i) = numero
         Next
 
+        For i As Integer = 0 To array2.Length - 1
+            Console.WriteLine("Introduce para el array2 un numero (" + i.ToString() + ") : ")
+            numero = Int32.Parse(Console.ReadLine())
+            array2(i) = numero
+        Next
+
+        For i As Integer = 0 To array3.Length - 1
+            array3(i) = array1(i) + array2(i)
+            Console.WriteLine(array3(i).ToString())
+        Next
+    End Function
+
+    Function Punto18()
+        Dim arrayNotas(4) As Integer
+        Dim nota As Integer
+        For i As Integer = 0 To arrayNotas.Length - 1
+            Console.WriteLine("Introduce una nota entre 1 y 10 (" + i.ToString() + ") " + " : ")
+            nota = Int32.Parse((Console.ReadLine()))
+            While nota < 0 Or nota > 10
+                Console.WriteLine("Nota invalida")
+                Console.WriteLine("Introduce una nota entre 1 y 10 (" + i.ToString() + ") " + " : ")
+                nota = Int32.Parse((Console.ReadLine()))
+            End While
+            arrayNotas(i) = nota
+        Next
+
+        Console.WriteLine("El maximo de nota es : " + arrayNotas.Max.ToString())
+        Console.WriteLine("El minimo de nota es : " + arrayNotas.Min.ToString())
+        Console.WriteLine("La media de nota es : " + arrayNotas.Average.ToString())
 
     End Function
 

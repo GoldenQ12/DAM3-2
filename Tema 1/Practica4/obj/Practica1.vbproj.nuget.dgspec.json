@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DAM3\\AccesoADatos\\Practica1-20240917T190318Z-001\\Practica1\\Practica1.vbproj": {}
+    "D:\\DAM3\\AccesoADatos\\Practica4\\Practica1.vbproj": {}
   },
   "projects": {
-    "D:\\DAM3\\AccesoADatos\\Practica1-20240917T190318Z-001\\Practica1\\Practica1.vbproj": {
+    "D:\\DAM3\\AccesoADatos\\Practica4\\Practica1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DAM3\\AccesoADatos\\Practica1-20240917T190318Z-001\\Practica1\\Practica1.vbproj",
+        "projectUniqueName": "D:\\DAM3\\AccesoADatos\\Practica4\\Practica1.vbproj",
         "projectName": "Practica1",
-        "projectPath": "D:\\DAM3\\AccesoADatos\\Practica1-20240917T190318Z-001\\Practica1\\Practica1.vbproj",
+        "projectPath": "D:\\DAM3\\AccesoADatos\\Practica4\\Practica1.vbproj",
         "packagesPath": "C:\\Users\\golde\\.nuget\\packages\\",
-        "outputPath": "D:\\DAM3\\AccesoADatos\\Practica1-20240917T190318Z-001\\Practica1\\obj\\",
+        "outputPath": "D:\\DAM3\\AccesoADatos\\Practica4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\golde\\AppData\\Roaming\\NuGet\\NuGet.Config",
