@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM3\\AccesoADatos\\Proyectos\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A33125-6366-46E6-9A3F-3DF1AE0EF23E}|Calculadora\\Calculadora.vbproj|d:\\dam3\\accesoadatos\\proyectos\\calculadora\\calculadora\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C7A33125-6366-46E6-9A3F-3DF1AE0EF23E}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A33125-6366-46E6-9A3F-3DF1AE0EF23E}|Calculadora\\Calculadora.vbproj|d:\\dam3\\accesoadatos\\proyectos\\calculadora\\calculadora\\calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C7A33125-6366-46E6-9A3F-3DF1AE0EF23E}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.vb",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\Calculadora\\Calculadora\\Calculator.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Calculator.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\Calculadora\\Calculadora\\Calculator.vb",
+              "RelativeToolTip": "Calculadora\\Calculator.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wCIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-18T19:19:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\Calculadora\\Calculadora\\Program.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Program.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\Calculadora\\Calculadora\\Program.vb",
+              "RelativeToolTip": "Calculadora\\Program.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwHIAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-18T19:11:30.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

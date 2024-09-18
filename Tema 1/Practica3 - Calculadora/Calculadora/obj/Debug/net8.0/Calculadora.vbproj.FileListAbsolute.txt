@@ -1,0 +1,14 @@
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.vb
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.vbproj.CoreCompileInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\DAM3\AccesoADatos\Proyectos\Calculadora\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
