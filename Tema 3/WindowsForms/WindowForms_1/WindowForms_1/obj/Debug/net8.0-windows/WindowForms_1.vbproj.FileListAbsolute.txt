@@ -1,0 +1,16 @@
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\bin\Debug\net8.0-windows\WindowForms_1.exe
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\bin\Debug\net8.0-windows\WindowForms_1.deps.json
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\bin\Debug\net8.0-windows\WindowForms_1.runtimeconfig.json
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\bin\Debug\net8.0-windows\WindowForms_1.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\bin\Debug\net8.0-windows\WindowForms_1.pdb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.Form1.resources
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.vbproj.GenerateResource.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.AssemblyInfoInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.AssemblyInfo.vb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.vbproj.CoreCompileInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\refint\WindowForms_1.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.pdb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\WindowForms_1.genruntimeconfig.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowForms_1\WindowForms_1\obj\Debug\net8.0-windows\ref\WindowForms_1.dll

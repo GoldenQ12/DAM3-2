@@ -1,0 +1,17 @@
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\bin\Debug\net8.0-windows\WindowsForms_2.exe
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\bin\Debug\net8.0-windows\WindowsForms_2.deps.json
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\bin\Debug\net8.0-windows\WindowsForms_2.runtimeconfig.json
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\bin\Debug\net8.0-windows\WindowsForms_2.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\bin\Debug\net8.0-windows\WindowsForms_2.pdb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.Form1.resources
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.Resources.resources
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.vbproj.GenerateResource.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.AssemblyInfoInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.AssemblyInfo.vb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.vbproj.CoreCompileInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\refint\WindowsForms_2.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.pdb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\WindowsForms_2.genruntimeconfig.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_2\WindowsForms_2\obj\Debug\net8.0-windows\ref\WindowsForms_2.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15769B0E-0B5B-4B0A-9F19-79C9351161F9}|WindowsForms_3\\WindowsForms_3.vbproj|d:\\dam3\\accesoadatos\\proyectos\\windowsforms\\windowsforms_3\\windowsforms_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{15769B0E-0B5B-4B0A-9F19-79C9351161F9}|WindowsForms_3\\WindowsForms_3.vbproj|solutionrelative:windowsforms_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15769B0E-0B5B-4B0A-9F19-79C9351161F9}|WindowsForms_3\\WindowsForms_3.vbproj|d:\\dam3\\accesoadatos\\proyectos\\windowsforms\\windowsforms_3\\windowsforms_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{15769B0E-0B5B-4B0A-9F19-79C9351161F9}|WindowsForms_3\\WindowsForms_3.vbproj|solutionrelative:windowsforms_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15769B0E-0B5B-4B0A-9F19-79C9351161F9}|WindowsForms_3\\WindowsForms_3.vbproj|d:\\dam3\\accesoadatos\\proyectos\\windowsforms\\windowsforms_3\\windowsforms_3\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{15769B0E-0B5B-4B0A-9F19-79C9351161F9}|WindowsForms_3\\WindowsForms_3.vbproj|solutionrelative:windowsforms_3\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_3\\WindowsForms_3\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "WindowsForms_3\\Form1.Designer.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_3\\WindowsForms_3\\Form1.Designer.vb",
+              "RelativeToolTip": "WindowsForms_3\\Form1.Designer.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAnwJ4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T19:40:47.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_3\\WindowsForms_3\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsForms_3\\Form1.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_3\\WindowsForms_3\\Form1.vb",
+              "RelativeToolTip": "WindowsForms_3\\Form1.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T19:39:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_3\\WindowsForms_3\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsForms_3\\Form1.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_3\\WindowsForms_3\\Form1.vb [Design]",
+              "RelativeToolTip": "WindowsForms_3\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T19:33:28.06Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

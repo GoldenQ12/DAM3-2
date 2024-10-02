@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowForms_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E58086E-850D-41DB-A17A-570C497AC20D}|WindowForms_1\\WindowForms_1.vbproj|d:\\dam3\\accesoadatos\\proyectos\\windowsforms\\windowforms_1\\windowforms_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0E58086E-850D-41DB-A17A-570C497AC20D}|WindowForms_1\\WindowForms_1.vbproj|solutionrelative:windowforms_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E58086E-850D-41DB-A17A-570C497AC20D}|WindowForms_1\\WindowForms_1.vbproj|d:\\dam3\\accesoadatos\\proyectos\\windowsforms\\windowforms_1\\windowforms_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E58086E-850D-41DB-A17A-570C497AC20D}|WindowForms_1\\WindowForms_1.vbproj|solutionrelative:windowforms_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E58086E-850D-41DB-A17A-570C497AC20D}|WindowForms_1\\WindowForms_1.vbproj|d:\\dam3\\accesoadatos\\proyectos\\windowsforms\\windowforms_1\\windowforms_1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E58086E-850D-41DB-A17A-570C497AC20D}|WindowForms_1\\WindowForms_1.vbproj|solutionrelative:windowforms_1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowForms_1\\WindowForms_1\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "WindowForms_1\\Form1.Designer.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowForms_1\\WindowForms_1\\Form1.Designer.vb",
+              "RelativeToolTip": "WindowForms_1\\Form1.Designer.vb",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwBgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T19:13:57.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowForms_1\\WindowForms_1\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowForms_1\\Form1.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowForms_1\\WindowForms_1\\Form1.vb",
+              "RelativeToolTip": "WindowForms_1\\Form1.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T19:02:37.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowForms_1\\WindowForms_1\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowForms_1\\Form1.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowForms_1\\WindowForms_1\\Form1.vb [Design]",
+              "RelativeToolTip": "WindowForms_1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T18:55:03.525Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
