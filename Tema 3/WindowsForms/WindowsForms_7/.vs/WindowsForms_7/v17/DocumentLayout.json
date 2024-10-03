@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DAF7-2BE2-45CF-A428-611FC3BBA744}|WindowsForms_7\\WindowsForms_7.vbproj|d:\\dam3\\accesoadatos\\proyectos\\windowsforms\\windowsforms_7\\windowsforms_7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{26E6DAF7-2BE2-45CF-A428-611FC3BBA744}|WindowsForms_7\\WindowsForms_7.vbproj|solutionrelative:windowsforms_7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6DAF7-2BE2-45CF-A428-611FC3BBA744}|WindowsForms_7\\WindowsForms_7.vbproj|D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_7\\windowsforms_7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{26E6DAF7-2BE2-45CF-A428-611FC3BBA744}|WindowsForms_7\\WindowsForms_7.vbproj|solutionrelative:windowsforms_7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_7\\WindowsForms_7\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsForms_7\\Form1.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_7\\WindowsForms_7\\Form1.vb",
+              "RelativeToolTip": "WindowsForms_7\\Form1.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-03T16:04:36.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_7\\WindowsForms_7\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsForms_7\\Form1.vb",
+              "ToolTip": "D:\\DAM3\\AccesoADatos\\Proyectos\\WindowsForms\\WindowsForms_7\\WindowsForms_7\\Form1.vb [Design]",
+              "RelativeToolTip": "WindowsForms_7\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-03T15:50:24.979Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

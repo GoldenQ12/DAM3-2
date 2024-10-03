@@ -1,0 +1,16 @@
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\bin\Debug\net8.0-windows\WindowsForms_7.exe
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\bin\Debug\net8.0-windows\WindowsForms_7.deps.json
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\bin\Debug\net8.0-windows\WindowsForms_7.runtimeconfig.json
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\bin\Debug\net8.0-windows\WindowsForms_7.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\bin\Debug\net8.0-windows\WindowsForms_7.pdb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.Form1.resources
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.vbproj.GenerateResource.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.AssemblyInfoInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.AssemblyInfo.vb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.vbproj.CoreCompileInputs.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\refint\WindowsForms_7.dll
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.pdb
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\WindowsForms_7.genruntimeconfig.cache
+D:\DAM3\AccesoADatos\Proyectos\WindowsForms\WindowsForms_7\WindowsForms_7\obj\Debug\net8.0-windows\ref\WindowsForms_7.dll
