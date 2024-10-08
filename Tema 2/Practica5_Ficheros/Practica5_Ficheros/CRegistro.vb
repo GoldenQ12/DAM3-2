@@ -1,44 +1,30 @@
-﻿Imports System.Transactions
+﻿Public Class CRegistro
+    Public Property Referencia As String
+    Public Property Precio As Double
 
-Public Class CRegistro
-    Inherits CFichero
-
-    Private _referencia As String
-    Private _precio As Double
-
-    Public Property Referencia() As String
-        Get
-            Return _referencia
-        End Get
-        Set(ByVal referencia As String)
-            _referencia = referencia
-        End Set
-    End Property
-
-    Public Property Precio() As Double
-        Get
-            Return _precio
-        End Get
-        Set(ByVal precio As Double)
-            _precio = precio
-        End Set
-    End Property
-
-    Sub New()
-        MyBase.New("")
-        _referencia = ""
-        _precio = 0.00
+    Public Sub New()
+        Referencia = ""
+        Precio = 0.0
     End Sub
 
-    Sub New(ByVal referencia As String, ByVal precio As Double)
-        MyBase.New("")
-        _referencia = referencia
-        _precio = precio
+    Public Sub New(ByVal ref As String, ByVal prec As Double)
+        Referencia = ref
+        Precio = prec
     End Sub
 
-    Public Overrides Function ToString() As String
-        Return "Referencia:  " & Referencia & Environment.NewLine() &
-            "Precio: " & Precio
+    Public Function ObtenerReferencia() As String
+        Return Referencia
     End Function
 
+    Public Function ObtenerPrecio() As Double
+        Return Precio
+    End Function
+
+    Public Sub AsignarReferencia(ByVal nuevaReferencia As String)
+        Referencia = nuevaReferencia
+    End Sub
+
+    Public Sub AsignarPrecio(ByVal nuevoPrecio As Double)
+        Precio = nuevoPrecio
+    End Sub
 End Class

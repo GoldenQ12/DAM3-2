@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DAM3\\AccesoADatos\\Proyectos\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj": {}
+    "C:\\Users\\Aita\\Downloads\\DAM3-2--AAD-Acceso-A-Datos\\Tema 2\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj": {}
   },
   "projects": {
-    "D:\\DAM3\\AccesoADatos\\Proyectos\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj": {
+    "C:\\Users\\Aita\\Downloads\\DAM3-2--AAD-Acceso-A-Datos\\Tema 2\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DAM3\\AccesoADatos\\Proyectos\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj",
+        "projectUniqueName": "C:\\Users\\Aita\\Downloads\\DAM3-2--AAD-Acceso-A-Datos\\Tema 2\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj",
         "projectName": "Practica5_Ficheros",
-        "projectPath": "D:\\DAM3\\AccesoADatos\\Proyectos\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj",
-        "packagesPath": "C:\\Users\\golde\\.nuget\\packages\\",
-        "outputPath": "D:\\DAM3\\AccesoADatos\\Proyectos\\Practica5_Ficheros\\Practica5_Ficheros\\obj\\",
+        "projectPath": "C:\\Users\\Aita\\Downloads\\DAM3-2--AAD-Acceso-A-Datos\\Tema 2\\Practica5_Ficheros\\Practica5_Ficheros\\Practica5_Ficheros.vbproj",
+        "packagesPath": "C:\\Users\\Aita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aita\\Downloads\\DAM3-2--AAD-Acceso-A-Datos\\Tema 2\\Practica5_Ficheros\\Practica5_Ficheros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\golde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

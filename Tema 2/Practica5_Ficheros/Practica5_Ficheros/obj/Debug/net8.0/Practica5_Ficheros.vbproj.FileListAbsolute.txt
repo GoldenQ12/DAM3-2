@@ -1,0 +1,14 @@
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\bin\Debug\net8.0\Practica5_Ficheros.exe
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\bin\Debug\net8.0\Practica5_Ficheros.deps.json
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\bin\Debug\net8.0\Practica5_Ficheros.runtimeconfig.json
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\bin\Debug\net8.0\Practica5_Ficheros.dll
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\bin\Debug\net8.0\Practica5_Ficheros.pdb
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\Practica5_Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\Practica5_Ficheros.AssemblyInfoInputs.cache
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\Practica5_Ficheros.AssemblyInfo.vb
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\Practica5_Ficheros.vbproj.CoreCompileInputs.cache
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\Practica5_Ficheros.dll
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\refint\Practica5_Ficheros.dll
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\Practica5_Ficheros.pdb
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\Practica5_Ficheros.genruntimeconfig.cache
+C:\Users\Aita\Downloads\DAM3-2--AAD-Acceso-A-Datos\Tema 2\Practica5_Ficheros\Practica5_Ficheros\obj\Debug\net8.0\ref\Practica5_Ficheros.dll
