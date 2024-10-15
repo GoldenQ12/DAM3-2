@@ -77,9 +77,13 @@ public class deleteView extends AppCompatActivity implements View.OnClickListene
             AdminSQLiteOpenHelper admin = new AdminSQLiteOpenHelper(this, DATABASE_NAME, null, 1);
             SQLiteDatabase db = admin.getWritableDatabase();
             String dni = etField1.getText().toString();
-            db.delete("Alumnos", "dni = ?", new String[] {dni});
-            etField1.setText("");
-            Toast.makeText(this, "Alumno eliminado correctamente ", Toast.LENGTH_LONG).show();
+            int regs = db.delete("Alumnos", "dni = ?", new String[] {dni});
+            if (regs == 0 ) {
+                Toast.makeText(this, "No se ha encontrando alumno con dni " + dni, Toast.LENGTH_LONG).show();
+            } else {
+                Toast.makeText(this, "Alumno eliminado correctamente ", Toast.LENGTH_LONG).show();
+                etField1.setText("");
+            }
         } catch (Exception ex) {
             tvTitle.setText(ex.getMessage());
             Toast.makeText(this, "Ha ocurrido un error " + ex.getMessage(), Toast.LENGTH_LONG).show();
