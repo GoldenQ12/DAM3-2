@@ -110,8 +110,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             Cursor cursor = db.rawQuery("SELECT * FROM Cursos", null);
             if (cursor.moveToFirst()) {
                 do{
-                    String id_curso = cursor.getString(cursor.getColumnIndex("id_curso"));
-                    String curso = cursor.getString(cursor.getColumnIndex("curso"));
+                    String id_curso = cursor.getString("id_curso");
+                    String curso = cursor.getString("curso");
                     cursos.add(id_curso +
                             " - " + curso);
                 } while (cursor.moveToNext());
