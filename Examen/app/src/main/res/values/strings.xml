@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="opcion_menu1">Opción 1</string>
+    <string name="opcion_menu2">Opción 2</string>
+    <string name="opcion_menu3">Opción 3</string>
+    <string name="mensaje_1">Se seleccionó la primer opción</string>
+    <string name="mensaje_2">Se seleccionó la segunda opción</string>
+    <string name="mensaje_3">Se seleccionó la tercer opción</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+	<name>New Data Adapter 1</name>
+	<classpath>C:\Users\golde\Downloads\mysql-connector-java-5.1.22-bin.jar</classpath>
+	<classpath>C:\Users\golde\Downloads\mysql-connector-j-8.4.0.jar</classpath>
+	<classpath>C:\Users\golde\Downloads\mssql-jdbc-12.8.1.jre8.jar</classpath>
+	<driver>com.mysql.jdbc.Driver</driver>
+	<username>root</username>
+	<password></password>
+	<url>jdbc:mysql://localhost/sakila</url>
+	<database></database>
+	<savePassword>true</savePassword>
+	<serverAddress></serverAddress>
+</jdbcDataAdapter>
