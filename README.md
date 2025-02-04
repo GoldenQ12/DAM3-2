@@ -186,9 +186,9 @@
         return true;
     }
 
-### Tener en cuenta, que para el if de id== r.id.reiniciar, puedes hacer esto, y te quedas mas tranquilo
-#       Intent intent = getIntent();
-#       finish(); // Finish the current activity
-#       startActivity(intent); // Start the activity again
+# Tener en cuenta, que para el if de id== r.id.reiniciar, puedes hacer esto, y te quedas mas tranquilo
+###       Intent intent = getIntent();
+###       finish(); // Finish the current activity
+###       startActivity(intent); // Start the activity again
 
 
